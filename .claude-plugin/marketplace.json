@@ -1,0 +1,40 @@
+{
+  "name": "buou-skills",
+  "displayName": "Buou Skills Collection",
+  "description": "Buou's personal Claude Code skills collection for investment wisdom, business diagnosis, and plain language translation",
+  "version": "1.0.0",
+  "owner": {
+    "name": "buou",
+    "url": "https://github.com/buou"
+  },
+  "repository": "https://github.com/buou/buou-skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "investment",
+    "buffett",
+    "yongping",
+    "business-diagnosis",
+    "plain-language"
+  ],
+  "categories": [
+    "Investment",
+    "Business Analysis",
+    "Communication"
+  ],
+  "plugins": [
+    {
+      "name": "buou-skills",
+      "description": "Buou's personal Claude Code skills - investment wisdom from Buffett & Duan Yongping, McKinsey 7S business diagnosis, and academic-to-plain language translator",
+      "version": "1.0.0",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/buou-buffett",
+        "./skills/buou-yongping",
+        "./skills/buou-7s-diagnosis",
+        "./skills/buou-plain"
+      ]
+    }
+  ]
+}
