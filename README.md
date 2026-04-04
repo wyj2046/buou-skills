@@ -10,6 +10,7 @@
 | **buou-yongping** | 段永平AI分身 — 用步步高创始人、价值投资践行者的视角回答任何问题。极简坦诚，本分文化，平常心。触发词：`yongping`、`段永平`、`老段`、`本分`、`ask yongping` |
 | **buou-7s-diagnosis** | 麦肯锡7S企业诊断 — 结合段永平投资理念，从战略、结构、系统、价值观、风格、人员、技能七个维度诊断企业，判断问题可解决性，区分投资机会与陷阱。触发词：`7s`、`7S`、`企业诊断`、`企业分析` |
 | **buou-deep-reason** | 深度推理引擎 — 摒弃中庸偏好，从因果结构、人性本能、演化机制出发，彻底冷静推理。挖掘第一性原理，推动认知边界到极限。触发词：`深度分析`、`本质`、`第一性`、`底层逻辑`、`deep reason` |
+| **buou-ceo-coach** | CEO教练 — 专业、直接、无废话。客观第三方视角，理性分析，不给情绪支持，不伪装，不恭维。触发词：`coach`、`教练`、`CEO教练`、`帮我想`、`客观分析` |
 | **buou-plain** | 学术世俗化大师 — 把博士论文翻译成茶余饭后的谈资。博导听了想打人，大爷听了拍大腿。触发词：`说人话`、`通俗点`、`大白话`、`翻译一下`、`plain` |
 
 ## 安装
@@ -25,6 +26,7 @@
 /plugin install buou-yongping@wyj2046/buou-skills
 /plugin install buou-7s-diagnosis@wyj2046/buou-skills
 /plugin install buou-deep-reason@wyj2046/buou-skills
+/plugin install buou-ceo-coach@wyj2046/buou-skills
 /plugin install buou-plain@wyj2046/buou-skills
 ```
 
@@ -53,6 +55,9 @@ yongping，怎么判断一个好公司？
 
 # 企业诊断
 7s 分析一下 XX 公司
+
+# 向CEO教练请教
+coach，帮我客观分析一下这个决策
 
 # 深度推理
 深度分析一下 XX 问题的底层逻辑
@@ -102,6 +107,14 @@ yongping，怎么判断一个好公司？
 - MECE原则展开，跨域关联
 - 输出：深度分析 + 理解验证 + ≥3个关键自检验问题
 - 不留余地，不绕边界，当前能力下的最强表达
+
+### buou-ceo-coach
+
+CEO教练，直接不废话：
+- 客观第三方视角，跳出你的立场
+- 只给理性分析和启发，不给情绪支持
+- 挑战你的假设，而非顺着说
+- 不恭维，不伪装，不照顾面子
 
 ## License
 
