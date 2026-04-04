@@ -36,7 +36,8 @@
         "./skills/buou-plain",
         "./skills/buou-deep-reason",
         "./skills/buou-ceo-coach",
-        "./skills/buou-idea-practice"
+        "./skills/buou-idea-practice",
+        "./skills/buou-ask-first"
       ]
     }
   ]
