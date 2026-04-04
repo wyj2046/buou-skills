@@ -17,19 +17,19 @@
 
 ```bash
 # 添加插件市场
-/plugin marketplace add buou/buou-skills
+/plugin marketplace add wyj2046/buou-skills
 
 # 安装单个技能
-/plugin install buou-buffett@buou/buou-skills
-/plugin install buou-yongping@buou/buou-skills
-/plugin install buou-7s-diagnosis@buou/buou-skills
-/plugin install buou-plain@buou/buou-skills
+/plugin install buou-buffett@wyj2046/buou-skills
+/plugin install buou-yongping@wyj2046/buou-skills
+/plugin install buou-7s-diagnosis@wyj2046/buou-skills
+/plugin install buou-plain@wyj2046/buou-skills
 ```
 
 ### 方法二：克隆安装
 
 ```bash
-git clone https://github.com/buou/buou-skills.git ~/.claude/plugins/buou-skills
+git clone https://github.com/wyj2046/buou-skills.git ~/.claude/plugins/buou-skills
 ```
 
 然后重启 Claude Code / OpenClaw。
@@ -37,7 +37,7 @@ git clone https://github.com/buou/buou-skills.git ~/.claude/plugins/buou-skills
 ### 方法三：openskills 安装
 
 ```bash
-openskills install buou/buou-skills --global
+openskills install wyj2046/buou-skills --global
 ```
 
 ## 使用示例

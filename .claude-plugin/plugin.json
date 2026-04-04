@@ -4,9 +4,9 @@
   "description": "Buou's personal Claude Code skills collection - investment wisdom, business diagnosis, and plain language translation",
   "author": {
     "name": "buou",
-    "url": "https://github.com/buou"
+    "url": "https://github.com/wyj2046"
   },
-  "repository": "https://github.com/buou/buou-skills",
+  "repository": "https://github.com/wyj2046/buou-skills",
   "keywords": ["skills", "investment", "buffett", "yongping", "diagnosis", "plain"],
   "skills": "./skills"
 }
