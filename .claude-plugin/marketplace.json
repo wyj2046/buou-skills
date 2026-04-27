@@ -15,17 +15,20 @@
     "buffett",
     "yongping",
     "business-diagnosis",
-    "plain-language"
+    "plain-language",
+    "learning",
+    "deep-learning"
   ],
   "categories": [
     "Investment",
     "Business Analysis",
-    "Communication"
+    "Communication",
+    "Learning"
   ],
   "plugins": [
     {
       "name": "buou-skills",
-      "description": "Buou's personal Claude Code skills - investment wisdom from Buffett & Duan Yongping, McKinsey 7S business diagnosis, deep reasoning engine, CEO coaching, idea practice coach, and plain language translation",
+      "description": "Buou's personal Claude Code skills - investment wisdom from Buffett & Duan Yongping, McKinsey 7S business diagnosis, deep reasoning engine, CEO coaching, idea practice coach, plain language translation, and reverse-questioning driven deep learning",
       "version": "1.0.0",
       "source": "./"
     }
